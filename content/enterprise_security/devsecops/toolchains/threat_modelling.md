@@ -18,6 +18,9 @@ keywords:
 - [Microsoft Threat Modeling Tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool) 微软威胁建模工具
 - [SecuriCAD](https://www.foreseeti.com/) 处理IT基础设施的建模和攻击模拟
 - [IriusRisk](https://iriusrisk.com/) 绘制威胁模型，捕获威胁和对策，并管理风险
+- [威胁建模介绍](https://xz.aliyun.com/t/2061) 先知社区-威胁建模入门介绍
+- [威胁建模的主流框架、工具与最佳实践](https://mp.weixin.qq.com/s/SsRnYXvMa5Rv74yWyTUlxw) 威胁建模的主流框架、工具与最佳实践
+- [STRIDE威胁建模漫谈](https://www.secrss.com/articles/3298) STRIDE威胁建模漫谈
 - [Raindance Project](https://github.com/devsecops/raindance) 使用攻击图来识别可能导致攻击的攻击面和对手策略
 - [SD Elements](https://www.securitycompass.com/sdelements/threat-modeling/) 识别和排序威胁，生成可操作的任务并跟踪相关票证
 - [Threatspec](https://threatspec.org/) 将威胁建模定义为代码
